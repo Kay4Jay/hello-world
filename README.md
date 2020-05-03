@@ -1,2 +1,3 @@
 # hello-world
 Getting used to tha hub
+I dont want to write anything about myself. Iam just running through that tutorial in order to get to know version control via github....
